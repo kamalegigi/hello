@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+.personal-form{
+font-size: 2rem;
+font-weight: 300;
+padding-left: 10px;
+margin: auto;
+border-radius:65%;
+text-align: center;
+/* background-color: antiquewhite; */
+}
+#firstname{
+    text-align: center;
+    font-size: 20px;
+}
+#lastname{
+    text-align: center;
+    font-size: 20px;
+}
+#Id-number{
+    text-align: center;
+    font-size: 20px;
+}
+#phone-number{
+    text-align: center;
+    font-size: 20px;
+}
+#email{
+    text-align: center;
+    font-size: 20px;
+}
+#micro-finance{
+    text-align: center;
+    font-size: 20px;
+}
+#password{
+    text-align: center;
+    font-size: 20px;
+    /* box-sizing: 50%; */
+}
